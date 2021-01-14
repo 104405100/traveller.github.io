@@ -42,7 +42,7 @@ body{
   
   
   .box1 {
-    background: url("/traveller.github.io/001.jpg");
+    background: url("./001.jpg");
     background-position: center center;
     background-size: cover;  
   }
